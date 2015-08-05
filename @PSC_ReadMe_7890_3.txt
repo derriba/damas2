@@ -1,0 +1,6 @@
+Title: Checkers with PC
+Description: This is a game of checkers (draughts) that was made for my final project. the game features AI made with minmax tree and alpha beta prunning. You have some options available like effecting the engine and changing the depth. The depth can be chosen from 2 to 10 (the program works fast enough even in the highest level). The sourcecode has explanations for every function and detailed as possible by programming rules i was taught. Written in win32 api with visual c++ and works good in win2k and winXP, may have some graphics problems in win98 (not sure why). The sourcecode is good for tutorial aswell, i think it may help some of you to learn how to write games against computer. The program itself contains rules for those who are not familiar with draughts and has the ability of multiplayer (player vs player) aswell. Took me several months of work and tests. Enjoy :)
+This file came from Planet-Source-Code.com...the home millions of lines of source code
+You can view comments on this code/and or vote on it at: http://www.Planet-Source-Code.com/vb/scripts/ShowCode.asp?txtCodeId=7890&lngWId=3
+
+The author may have retained certain copyrights to this code...please observe their request and the law by reviewing all copyright conditions at the above URL.
